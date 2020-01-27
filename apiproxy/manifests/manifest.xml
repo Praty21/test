@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="tcp-logger" version="SHA-512:bc1f35a701af3bfac91364a1aca43881cbb398cf5a25ccb4430226cdd87fcc71353d31c3c70f17df93c5066b3f510445090b11c35e27892c17c7185be4cf6dea"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:75b04e0ad889c41a6302626ce7479d5e38b45a671f1ecade309ef9c16fcfc312f02d5e22ed740d1e4b2dd9ec999a4a606012bcb5041ee3319a0093f1e86d3bbb"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:08dd204624a779800734527c9d2fe766ad775151687cbd0d465d57f6113aaa2a2b0624786239bd87e49963a86bace147540b5b19490cf9c876d31d4223d9bcd4"/>
+    </TargetEndpoints>
+</Manifest>

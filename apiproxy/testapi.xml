@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="testapi">
+    <Basepaths>/testapi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1576736850673</CreatedAt>
+    <CreatedBy>pratyush.singh@bt.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>testapi</DisplayName>
+    <LastModifiedAt>1576821634071</LastModifiedAt>
+    <LastModifiedBy>pratyush.singh@bt.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:d32c3fb5a1fd6da70826b6fe81903174a6f3130d3b581ed3075806335b93e08a994cb621f8e3c0598856e04a7f8bd741f112303854c36183910843b5b3c4bcee</ManifestVersion>
+    <Policies>
+        <Policy>tcp-logger</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

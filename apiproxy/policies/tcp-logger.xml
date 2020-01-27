@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessageLogging name="tcp-logger" async="false" continueOnError="false" enabled="true">
+    <DisplayName>Log to splunk over TCP</DisplayName>
+    <Syslog>
+        <FormatMessage>false</FormatMessage>
+        <Message>Message = "Logging in SPLUNK"</Message>
+        <Host>localhost</Host>
+        <Port>8000</Port>
+        <Protocol>TCP</Protocol>
+    </Syslog>
+</MessageLogging>
